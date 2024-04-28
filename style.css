@@ -1,0 +1,53 @@
+body
+{
+    background-image: url('https://upload.wikimedia.org/wikipedia/ru/6/6b/NyanCat.gif');
+}
+h1
+{
+    font-size: 300px;
+    font-weight: 300px;
+    color: black;
+    font-family: "Dancing Script", cursive;
+    background-image: url('https://images.lingscars.com/images/index/ling-face.png');
+}
+h2
+{
+    font-size: 500px;
+    font-weight: 100px;
+    background-image: url('https://media.tenor.com/FqnpIY4lUGgAAAAe/%D1%8D%D1%89%D0%BA%D0%B5%D1%80%D0%B5.png');
+    color: grey;
+    font-family: "Dancing Script", cursive;
+}
+h3
+{
+    font-size: 1000px;
+    font-weight: 500px;
+    background-image: url('https://media.tenor.com/mFXVoPWbjVUAAAAM/%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%BE.gif');
+    color: grey;
+    font-family: "Jacquard 12 Charted", system-ui;   
+}
+h4
+{
+    font-size: 200px;
+    font-weight: 400px;
+    background-image: url('https://media.tenor.com/6ssztWmGBVgAAAAM/%D1%8D%D1%89%D0%BA%D0%B5%D1%80%D0%B5-ivangai.gif');
+    color: rgb(252, 37, 101);
+    rotate: 350deg;
+    width: 100%;
+    font-family: "Dancing Script", cursive;
+}
+h5
+{
+    font-size: 200px;
+    font-weight: 400px;
+    background-image: url('https://w7.pngwing.com/pngs/935/137/png-transparent-internet-meme-rage-comic-know-your-meme-meme-white-child-face-thumbnail.png');
+    color: rgb(0, 255, 0);
+    rotate: 10deg;
+    width: 100%;
+}
+.empt1
+{
+    text-align: center;
+    display: flex;
+
+}
